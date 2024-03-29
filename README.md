@@ -1,3 +1,8 @@
 # twitter_particles
+Create a simple effect of particles display on the Twitter webpage.
 
-做一个简单的twitter网页上展示粒子的效果
+
+[Follow me on Twitter](https://twitter.com/wugongxing)
+
+
+
